@@ -22,12 +22,12 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94719199757','94703475691'];
-global.premium = ['94719199757','94703475691'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
-global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
+global.ownername = 'M ASWAD';
+global.owner = ['923419159670'];
+global.premium = ['923419159670'];
+global.packname = 'M ASWAD';
+global.author = 'M ASWAD';
+global.caption = 'M ASWAD';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
@@ -49,9 +49,9 @@ global.linkGroup = 'https://chat.whatsapp.com/JNAASTo0fMo3N4luk8arve'
 global.logo = process.env.LOGO || "https://telegra.ph/file/bb92c9c4e66b6b6045feb.jpg",        
 global.ANTI_BOT = process.env.ANTI_BOT || "false",        
 global.typemenu = 'v1' // 'v1' => 'v5'
-global.onlygroup = false // onlygroup
-global.onlypc = false
-global.AUTO_ABOUT = false
+global.onlygroup = true // onlygroup
+global.onlypc = true
+global.AUTO_ABOUT = true
 global.limitawal = {
     premium: 'Infinity',
     free: 10
